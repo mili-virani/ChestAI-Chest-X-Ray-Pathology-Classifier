@@ -2,7 +2,7 @@
 
 A deep learning system that detects 14 thoracic pathologies from chest X-rays, with Grad-CAM visual explanations for every prediction. Built on the NIH ChestX-ray14 dataset using an EfficientNet-B3 backbone, with a Streamlit demo app for interactive inference.
 
-![Demo](demo_results.png)
+![Grad-CAM Demo](gradcam_best.png)
 
 ## Overview
 
