@@ -59,8 +59,6 @@ A Streamlit app lets you upload any frontal chest X-ray and instantly see:
 - A side-by-side Grad-CAM visualization for the top prediction
 - Per-class validation AUC reference chart
 
-![App screenshot](app_screenshot.png)
-
 ### Running the app locally
 
 ```bash
