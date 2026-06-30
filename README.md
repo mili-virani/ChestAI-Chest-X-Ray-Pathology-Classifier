@@ -2,7 +2,6 @@
 
 A deep learning system that detects 14 thoracic pathologies from chest X-rays, with Grad-CAM visual explanations for every prediction. Built on the NIH ChestX-ray14 dataset using an EfficientNet-B3 backbone, with a Streamlit demo app for interactive inference.
 
-![Grad-CAM Demo](gradcam_best.png)
 
 ## Overview
 
@@ -62,7 +61,7 @@ A Streamlit app lets you upload any frontal chest X-ray and instantly see:
 ### Running the app locally
 
 ```bash
-git clone https://github.com/<your-username>/medical-xray-classifier.git
+git clone https://github.com/mili-virani/ChestAI-Chest-X-Ray-Pathology-Classifier
 cd medical-xray-classifier
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
